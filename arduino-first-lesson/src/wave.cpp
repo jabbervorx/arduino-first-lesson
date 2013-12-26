@@ -1,5 +1,4 @@
 #include <Arduino.h>
-#include <avr/io.h>
 #include "HardwareSerial.h"
 
 typedef struct _int_ratio {
